@@ -1,16 +1,25 @@
-## Hi there 👋
+# Salut, moi c'est Lucas 👋
 
-<!--
-**Fir3Cooz/Fir3Cooz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis développeur passionné par [ton domaine préféré : web, mobile, IA, etc.].
 
-Here are some ideas to get you started:
+## 🚀 À propos de moi
+- 🔭 Je travaille actuellement sur [ton projet actuel ou ton objectif].
+- 🌱 J'apprends en ce moment [une technologie ou compétence].
+- 💬 N'hésite pas à me poser des questions sur [tes spécialités].
+- 📫 Contact : [ton email pro] | [LinkedIn] | [Ton site/portfolio]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Compétences
+- Langages : [Exemple : JavaScript, Python, etc.]
+- Frameworks : [React, Node.js, etc.]
+- Outils : [Git, Docker, etc.]
+
+## 📂 Projets à voir
+- [Nom du projet 1](lien vers le repo) : brève description
+- [Nom du projet 2](lien vers le repo) : brève description
+
+## 🎨 Portfolio en ligne
+🔗 [Mon site portfolio](https://ton-url.github.io/portfolio-site/)
+
+---
+
+*Merci de visiter mon profil !*
