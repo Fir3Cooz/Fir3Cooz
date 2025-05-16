@@ -1,12 +1,12 @@
 # Salut, moi c'est Lucas 👋
 
-Je suis développeur passionné par [ton domaine préféré : web, mobile, IA, etc.].
+Je suis développeur passionné par le web et jeux vidéo !
 
 ## 🚀 À propos de moi
-- 🔭 Je travaille actuellement sur [ton projet actuel ou ton objectif].
-- 🌱 J'apprends en ce moment [une technologie ou compétence].
-- 💬 N'hésite pas à me poser des questions sur [tes spécialités].
-- 📫 Contact : [ton email pro] | [LinkedIn] | [Ton site/portfolio]
+- 🔭 Je travaille actuellement sur mon jeu Unreal Engine.
+- 🌱 J'apprends en ce moment tout ce qui est autour de la création d'un jeu vidéo.
+- 💬 N'hésite pas à me poser des questions.
+- 📫 Contact : lucashamon0306@gmail.com
 
 ## 🛠️ Compétences
 - Langages : [Exemple : JavaScript, Python, etc.]
